@@ -39,3 +39,13 @@ Report any bugs or features requests [here](https://github.com/meld-cp/obsidian-
 
 Documentation can be found [here](https://meld-cp.github.io/obsidian-encrypt/)
 
+
+---
+
+# Установка Meld Encrypt на macOS (Obsidian Desktop)
+- Settings → Community plugins
+- Включить Restricted mode и включить community plugins
+- Browse → в поиске набрать Meld Encrypt
+- Install → Enable 
+- Obsidian Help
+- Готово, изи катка :3
